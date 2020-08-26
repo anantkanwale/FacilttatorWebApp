@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="testbrowser" value="chrome"/>
+  <test name="Test(failed)">
+    <parameter name="testbrowser" value="chrome"/>
+    <classes>
+      <class name="Shyena.FacilitatorWebApplication.RoleTest">
+        <methods>
+          <include name="RoleTest"/>
+        </methods>
+      </class> <!-- Shyena.FacilitatorWebApplication.RoleTest -->
+      <class name="Shyena.FacilitatorWebApplication.LoginTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- Shyena.FacilitatorWebApplication.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

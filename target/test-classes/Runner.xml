@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="none">
+  <test name="Test">
+       <parameter name="testbrowser" value="chrome"></parameter>
+    <classes>
+    <class name="Shyena.FacilitatorWebApplication.LoginTest"/>
+        <class name="Shyena.FacilitatorWebApplication.RoleTest"/>
+       
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

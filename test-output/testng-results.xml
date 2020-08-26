@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33865" started-at="2020-08-26T03:20:25Z" finished-at="2020-08-26T03:20:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33865" started-at="2020-08-26T03:20:25Z" finished-at="2020-08-26T03:20:59Z">
+      <class name="Shyena.FacilitatorWebApplication.RoleTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Shyena.FacilitatorWebApplication.RoleTest@4883b407]" name="beforeTest" is-config="true" duration-ms="10121" started-at="2020-08-26T08:50:25Z" finished-at="2020-08-26T08:50:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="RoleTest()[pri:1, instance:Shyena.FacilitatorWebApplication.RoleTest@4883b407]" name="RoleTest" duration-ms="20209" started-at="2020-08-26T08:50:35Z" finished-at="2020-08-26T08:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoleTest -->
+        <test-method status="PASS" signature="editRole()[pri:2, instance:Shyena.FacilitatorWebApplication.RoleTest@4883b407]" name="editRole" duration-ms="2517" started-at="2020-08-26T08:50:55Z" finished-at="2020-08-26T08:50:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editRole -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Shyena.FacilitatorWebApplication.RoleTest@4883b407]" name="afterTest" is-config="true" duration-ms="980" started-at="2020-08-26T08:50:58Z" finished-at="2020-08-26T08:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Shyena.FacilitatorWebApplication.RoleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
